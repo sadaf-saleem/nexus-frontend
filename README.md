@@ -35,5 +35,4 @@ Sadaf
 Frontend Developer
 
 
-If you face any issues, feel free to contact me at:
-shahrozbinshahzad@gmail.com
+
