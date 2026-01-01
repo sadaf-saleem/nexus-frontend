@@ -30,18 +30,10 @@ npm run dev
 Open:
 http://localhost:5173
 
-🌍 Deployment
-
-This project can be deployed for free on Vercel or Netlify.
-
-Build settings:
-Build command: npm run build
-Output directory: dist
-
 👨‍💻 Author
-Shahroz
+Sadaf
 Frontend Developer
 
-📧 Contact
+
 If you face any issues, feel free to contact me at:
 shahrozbinshahzad@gmail.com
